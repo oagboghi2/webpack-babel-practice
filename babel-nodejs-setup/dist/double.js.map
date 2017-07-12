@@ -1,0 +1,1 @@
+{"version":3,"sources":["../server/double.js"],"names":["double","x","console","log"],"mappings":";;;;;AAAA,IAAMA,SAAS,SAATA,MAAS,CAACC,CAAD,EAAM;AACnBC,UAAQC,GAAR,CAAYF,IAAI,CAAhB;AACD,CAFD;;kBAIeD,M","file":"double.js","sourcesContent":["const double = (x) =>{\n  console.log(x * 2);\n};\n\nexport default double;\n"]}

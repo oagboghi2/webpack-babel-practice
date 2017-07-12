@@ -1,0 +1,17 @@
+{
+  "name": "easy-webpack-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack-dev-server --env.development",
+    "prod": "webpack --env.production"
+  },
+  "devDependencies": {
+    "webpack": "^2.3.1",
+    "webpack-dev-server": "^2.4.2"
+  },
+  "author": "",
+  "license": "ISC"
+}

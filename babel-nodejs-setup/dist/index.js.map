@@ -1,0 +1,1 @@
+{"version":3,"sources":["../server/index.js"],"names":[],"mappings":";;AAAA;;;;AACA;;;;;;AAEA,oBAAK,6BAAL;AACA,sBAAO,CAAP","file":"index.js","sourcesContent":["import test from './test';\nimport double from './double';\n\ntest(\"Production is still Working\");\ndouble(4);\n"]}
